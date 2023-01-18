@@ -17,4 +17,5 @@
 
     <?php ?>
 </body>
+<script></script>
 </html>
